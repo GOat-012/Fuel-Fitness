@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Fuel - Premium Gym & Fitness Club",
+  "description": "Discover Fitness Fuel - a premium strength training and fitness destination. Featuring dynamic 3D visuals, owner-managed gallery, real member reviews, and flexible membership subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
